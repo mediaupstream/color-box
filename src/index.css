@@ -31,4 +31,5 @@ textarea, select, input, button { outline: none; }
   height:100%;
   display: flex;
   flex-direction:column;
+  position: relative;
 }

@@ -8,7 +8,7 @@ import Menu from './Menu'
 /**
  * Initial state value
  */
-export const INITIAL_VALUE = 'type things'
+export const INITIAL_VALUE = ' type here ...'
 
 /**
  * Sums the code point values for each character in `n`
@@ -46,13 +46,16 @@ const Bloop = styled(Box)`
  * @returns Input
  */
 const Input = styled(Box)`
+  position: relative;
   z-index:9;
   flex:1;
   background:transparent;
-  font-size:5rem;
+  // font-size:5rem;
   font-family:'Helvetica Neue', Helvetica, sans-serif;
   font-weight:bold;
   transition: border 0.13s linear;
+  margin:0;
+  border-radius:0;
   &:hover {
     border-size:2rem;
   }
@@ -107,6 +110,7 @@ const App = () => {
         <Input
           value={value}
           p={[3, 20]}
+          fontSize={['2rem', '4rem']}
           style={{
             border: `1rem solid ${theme.color}`,
             color: theme.color,
