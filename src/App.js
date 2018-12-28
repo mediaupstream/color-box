@@ -8,7 +8,7 @@ import Menu from './Menu'
 /**
  * Initial state value
  */
-export const INITIAL_VALUE = 'cbox: type here . . . '
+export const INITIAL_VALUE = 'type things'
 
 /**
  * Sums the code point values for each character in `n`
