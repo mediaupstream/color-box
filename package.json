@@ -1,7 +1,8 @@
 {
-  "name": "app",
-  "version": "0.1.0",
+  "name": "color-box",
+  "version": "0.1.2",
   "private": true,
+  "homepage": "http://mediaupstream.github.io/color-box",
   "dependencies": {
     "color-hash": "^1.0.3",
     "hello-color": "^1.0.1",
