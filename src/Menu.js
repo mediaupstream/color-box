@@ -10,6 +10,7 @@ import styled from 'styled-components'
 const Heading = styled(H)`
   text-align:center;
   transition: all 0.13s linear;
+  min-width: 140px;
 `
 
 /**

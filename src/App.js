@@ -110,7 +110,7 @@ const App = () => {
         <Input
           value={value}
           p={[3, 20]}
-          fontSize={['2rem', '4rem']}
+          fontSize={['2.5rem', '3rem', '4rem', '5rem']}
           style={{
             border: `1rem solid ${theme.color}`,
             color: theme.color,
