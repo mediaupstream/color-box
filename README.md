@@ -1,10 +1,7 @@
 ## Colorbox
 
-The type of measurement one performs on the system affects the end-state of the system.
+> The type of measurement one performs on the system affects the end-state of the system.
 
-```Press A to continue```
+When the box observes you type it changes the state of the world. Have fun!
 
-
-## FOSS
-
-$$$$ free to use $$$$
+[[https://github.com/mediaupstream/color-box/blob/master/preview.gif|alt=preview]]
