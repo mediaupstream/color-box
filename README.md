@@ -4,4 +4,4 @@
 
 When the box observes you type it changes the state of the world. Have fun!
 
-[[https://github.com/mediaupstream/color-box/blob/master/preview.gif|alt=preview]]
+![preview](https://github.com/mediaupstream/color-box/blob/master/preview.gif?raw=true)
