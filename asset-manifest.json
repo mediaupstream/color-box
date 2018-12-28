@@ -1,13 +1,13 @@
 {
   "main.css": "/color-box/static/css/main.f44eb729.chunk.css",
-  "main.js": "/color-box/static/js/main.ec0bcf6b.chunk.js",
-  "main.js.map": "/color-box/static/js/main.ec0bcf6b.chunk.js.map",
+  "main.js": "/color-box/static/js/main.432ca428.chunk.js",
+  "main.js.map": "/color-box/static/js/main.432ca428.chunk.js.map",
   "static/js/1.1b33af96.chunk.js": "/color-box/static/js/1.1b33af96.chunk.js",
   "static/js/1.1b33af96.chunk.js.map": "/color-box/static/js/1.1b33af96.chunk.js.map",
   "runtime~main.js": "/color-box/static/js/runtime~main.655d10bc.js",
   "runtime~main.js.map": "/color-box/static/js/runtime~main.655d10bc.js.map",
   "static/css/main.f44eb729.chunk.css.map": "/color-box/static/css/main.f44eb729.chunk.css.map",
   "index.html": "/color-box/index.html",
-  "precache-manifest.ee7e8ffc1bcd7cd2fabfc47641e3f33b.js": "/color-box/precache-manifest.ee7e8ffc1bcd7cd2fabfc47641e3f33b.js",
+  "precache-manifest.e1c5cdf5a98600aad6711fe98f0d1c57.js": "/color-box/precache-manifest.e1c5cdf5a98600aad6711fe98f0d1c57.js",
   "service-worker.js": "/color-box/service-worker.js"
 }

@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/color-box/static/js/runtime~main.655d10bc.js"
   },
   {
-    "revision": "ec0bcf6b08e71a6695ba",
-    "url": "/color-box/static/js/main.ec0bcf6b.chunk.js"
+    "revision": "432ca42887916047137d",
+    "url": "/color-box/static/js/main.432ca428.chunk.js"
   },
   {
     "revision": "1b33af96ebe9ead72ebc",
     "url": "/color-box/static/js/1.1b33af96.chunk.js"
   },
   {
-    "revision": "ec0bcf6b08e71a6695ba",
+    "revision": "432ca42887916047137d",
     "url": "/color-box/static/css/main.f44eb729.chunk.css"
   },
   {
-    "revision": "980268deaa159ac74d0a98ba0ddbb053",
+    "revision": "1d6491d09cafb39dafa5af8bda396a69",
     "url": "/color-box/index.html"
   }
 ];
